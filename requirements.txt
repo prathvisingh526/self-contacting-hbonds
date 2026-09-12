@@ -1,0 +1,24 @@
+# Notebook and core analysis
+jupyterlab
+ipykernel
+numpy
+pandas
+biopython
+
+# Excel input/output and formatting
+openpyxl
+XlsxWriter
+
+# Plotting and image generation
+matplotlib
+seaborn
+Pillow
+CairoSVG
+
+# Molecular modelling
+openmm
+
+# Optional desktop automation used by selected notebook cells
+PyAutoGUI
+PyGetWindow
+pywin32; platform_system == "Windows"
